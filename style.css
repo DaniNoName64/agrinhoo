@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: o;
+}
+:root{
+    --cor-letra:#d0a933;
+    --cor-fundo-quadrado:#0b2d20;
+    --cor-de-fundo:#064635;
+}
+body{
+    color:var(--cor-letra) ;
+    background-color: var(--cor-de-fundo) ;
+}
+.titulo{
+    font-size: 37px;
+    padding: 0 10px;
+}
+
+.cabeçalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.texto{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+ }
